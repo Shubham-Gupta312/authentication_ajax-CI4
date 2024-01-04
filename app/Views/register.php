@@ -6,10 +6,10 @@
         <div class="col-md-6">
             <h3 class="ms-3">Sign-Up</h3>
             <!-- Alert Message -->
-            <div class="alert alert-success alert-dismissible fade show" id="successAlert" role="alert">
+            <!-- <div class="alert alert-success alert-dismissible fade show" id="successAlert" role="alert">
                 <strong id="alert"></strong>
                 <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
-            </div>
+            </div> -->
         
             <form id="formId">
                 <div class="form-group m-3">
